@@ -1,3 +1,4 @@
+#No need to add vpc it will take default vpc on it`s own .
 resource "aws_security_group" "k8s_master" {
   name        = "k8s_master_sg"
   description = "k8s_master Security Group"
