@@ -10,9 +10,9 @@ terraform validate -- to check if any syntax error
 
 terraform plan
 
-terrafrom apply / terraform apply -auto-approve
+terrafrom apply and terraform apply -auto-approve
 
-terraform destroy / terraform destroy -auto-approve
+terraform destroy and terraform destroy -auto-approve
 
 terraform state list
 
